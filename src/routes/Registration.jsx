@@ -36,13 +36,14 @@ function Registration() {
                             sx={{
                                 height: 40,
                                 width: 200,
-                                background: "#E0E0E0",
-                                color: "black",
+                                // background: "#E0E0E0",
+                                // color: "black",
                                 textTransform: 'none',
-                                "&:hover": {
-                                    color: "white"
-                                }
+                                // "&:hover": {
+                                //     color: "white"
+                                // }
                             }} 
+                            color='inherit'
                             size='large' 
                             variant='contained'
                         >Зарегистрироваться</Button>
